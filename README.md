@@ -2,10 +2,13 @@
 - 
 - 👀 I’m interested in: 
 -    ✨Apps dev
+-    ✨Machine learning
 -    
 - 🌱 I’m currently learning: 
 -    ✨ Python
 -    ✨ SQL
+-    ✨ Django
+-    ✨ Linux
 - 
 - 💞️ I’m looking to collaborate on: ...
 -
