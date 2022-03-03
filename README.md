@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Sajmox
+- 👋 Hi, I’m Szymon Sułkowski
 - 
 - 👀 I’m interested in: 
+-    ✨Programming
 -    ✨Apps dev
 -    ✨Machine learning
 -    
@@ -14,8 +15,7 @@
 -
 -
 - 📫 How to reach me: 
--    ✨ sulkowski.am@gmail.com
--  
+-    ✨ sulkowski.am@gmail.com  
 
 <!---
 Sajmox/Sajmox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
