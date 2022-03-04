@@ -11,9 +11,6 @@
 -    ✨ Django
 -    ✨ Linux
 - 
-- 💞️ I’m looking to collaborate on: ...
--
--
 - 📫 How to reach me: 
 -    ✨ sulkowski.am@gmail.com  
 
